@@ -1,0 +1,11 @@
+Model Information:
+* title:	Building02
+* source:	https://sketchfab.com/3d-models/building02-6cf143e247bb4501bdb509bd665d38b1
+* author:	dimitrovicdenis (https://sketchfab.com/dimitrovicdenis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Building02" (https://sketchfab.com/3d-models/building02-6cf143e247bb4501bdb509bd665d38b1) by dimitrovicdenis (https://sketchfab.com/dimitrovicdenis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
